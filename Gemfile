@@ -11,8 +11,6 @@ ruby RUBY_VERSION
 # Happy Jekylling!
 gem "jekyll", "3.4.3"
 
-gem "jekyll-admin"
-
 gem "jekyll-archives"
 
 gem "github-pages", group: :jekyll_plugins
@@ -23,5 +21,4 @@ group :jekyll_plugins do
   gem "jekyll-gist"
   gem "jekyll-feed"
   gem "jemoji"
-  gem "jekyll-lunr-js-search"
 end
