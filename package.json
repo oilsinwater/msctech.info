@@ -1,0 +1,21 @@
+{
+  "name": "msctech.info",
+  "version": "1.0.0",
+  "description": "Repo for msctech.info; clone from minimal-mistakes theme",
+  "main": "banner.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msctech/msctech.info.git"
+  },
+  "author": "Philliph Drummond",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msctech/msctech.info/issues"
+  },
+  "homepage": "https://github.com/msctech/msctech.info#readme"
+}
