@@ -1,0 +1,19 @@
+# Aerobatic website manifest
+id: 6de81d33-ded7-4b99-b876-9883cb803223
+deploy:
+  ignore: []
+  directory: .
+plugins:
+  - name: password-protect
+    options:
+        password: $SITE_PASSWORD
+        loginPage: login.html
+        maxFailures: 5
+        failureWindow: 600
+        lockoutDuration: 600
+        ignorePatterns:
+            - '/css/*.css'
+            - '/js/*.js'
+            - '/img/*.jpg'
+            - '/img/*.png'
+  - name: webpage
