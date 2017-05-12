@@ -1,0 +1,9 @@
+cgi-bin/
+google-verification-file.html
+/-v
+/.git
+.passwd
+.htaccess
+/_site/archive-layout-with-content
+/_site/lorem-ipsum
+/.DS_Store

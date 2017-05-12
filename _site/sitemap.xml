@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>/archive-layout-with-content/</loc>
+</url>
+<url>
+<loc>/categories/</loc>
+</url>
+<url>
+<loc>/collection-archive/</loc>
+</url>
+<url>
+<loc>/home/</loc>
+</url>
+<url>
+<loc>/</loc>
+</url>
+<url>
+<loc>/page-archive/</loc>
+</url>
+<url>
+<loc>/sitemap/</loc>
+</url>
+<url>
+<loc>/tags/</loc>
+</url>
+<url>
+<loc>/year-archive/</loc>
+</url>
+</urlset>
