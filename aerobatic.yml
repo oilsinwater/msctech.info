@@ -14,7 +14,10 @@ plugins:
           - '/css/*.css'
           - '/js/*.js'
           - '/img/*.jpg'
-          - '/images/*.jpg'
-          - '/img/*.png'
-          - '/images/*.png'
+  - name: keyword-search
+    path: /search/
+    method: get
   - name: webpage
+
+scanner:
+  keywordSearch: {}
