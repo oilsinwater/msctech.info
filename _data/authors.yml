@@ -1,9 +1,9 @@
 # /_data/authors.yml
 
-phil:
+Drummond:
   name: "Philliph Drummond"
 #  uri: "http://thewhip.com"
-  email: "help@movementstrategy.org"
-  bio: "Staying woke since '79'"
-  avatar: ""
+  email: "phil@movementstrategy.org"
+  bio: "Story is everything..."
+  avatar: "assets/images/pdrummond.png"
 #  twitter: ""

@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/Supply-Order-Policy/</loc>
+<loc>http://localhost:4000/portfolio/foo-bar/</loc>
 <lastmod>2015-08-04T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/policy/Supply-Order-Policy/</loc>
+<lastmod>2015-08-04T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/best%20practices/Best-Practices-Digital-Receipts/</loc>
+<lastmod>2016-06-17T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/best%20practices/Best-Practices-File-Sharing-copy/</loc>
+<lastmod>2017-01-25T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/_posts/2015-08-04-Supply-Order-Policy/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/foo-bar/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/_posts/2016-06-17-Best-Practices-Digital-Receipts/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/_posts/2017-01-25-Best-Practices-File-Sharing%20copy/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/archive-layout-with-content/</loc>

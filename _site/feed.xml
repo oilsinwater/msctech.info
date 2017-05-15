@@ -1,9 +1,131 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-14T04:50:49+00:00</updated><id>http://localhost:4000/</id><title type="html">MSC Technical Information</title><subtitle>A blog of updates, documentation, and information for tehcnology and operations for the Movement Strategy Center.</subtitle><author><name>Movement Strategy Center</name><email>info@movementstrategy.org</email><uri>movementstrategy.org</uri></author><entry><title type="html">Supply Order Policy</title><link href="http://localhost:4000/Supply-Order-Policy/" rel="alternate" type="text/html" title="Supply Order Policy" /><published>2015-08-04T00:00:00+00:00</published><updated>2015-08-04T00:00:00+00:00</updated><id>http://localhost:4000/Supply-Order-Policy</id><content type="html" xml:base="http://localhost:4000/Supply-Order-Policy/">&lt;h2 id=&quot;goal&quot;&gt;&lt;strong&gt;Goal&lt;/strong&gt;:&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-15T23:04:56+00:00</updated><id>http://localhost:4000/</id><title type="html">MSC Technical Information</title><subtitle>A blog of updates, documentation, and information for tehcnology and operations for the Movement Strategy Center.</subtitle><author><name>Movement Strategy Center</name><email>info@movementstrategy.org</email><uri>movementstrategy.org</uri></author><entry><title type="html">Best Practices for File Sharing</title><link href="http://localhost:4000/best%20practices/Best-Practices-File-Sharing-copy/" rel="alternate" type="text/html" title="Best Practices for File Sharing" /><published>2017-01-25T00:00:00+00:00</published><updated>2017-01-25T00:00:00+00:00</updated><id>http://localhost:4000/best%20practices/Best-Practices-File-Sharing%20copy</id><content type="html" xml:base="http://localhost:4000/best%20practices/Best-Practices-File-Sharing-copy/">&lt;h2 id=&quot;filefolder-naming-problem&quot;&gt;File/Folder Naming Problem?&lt;/h2&gt;
 
-&lt;p&gt;Sustain and monitor a supply of regular office items for use by MSC
-staff and community&lt;/p&gt;
+&lt;p&gt;This document is to provide some best practices for file naming and storage policies. Project members, departments and individuals can establish folder and file naming conventions, guiding their teams to actions all can sustainably follow, so their files are managed better.  Experiencing results like unpredictable filing, confusing/varying naming, duplication, and loss can be remedied through the following practices.&lt;/p&gt;
 
-&lt;h3 id=&quot;rules&quot;&gt;&lt;strong&gt;Rules&lt;/strong&gt;:&lt;/h3&gt;
+&lt;h3 id=&quot;general-file-naming-best-practices&quot;&gt;General File Naming Best Practices&lt;/h3&gt;
+
+&lt;p&gt;The most important things to remember about file naming are to be consistent and plainly descriptive in naming and organizing your files. The goal is that it’s obvious where to find a file and what it contains.&lt;/p&gt;
+
+&lt;h4 id=&quot;information-to-consider-including-in-file-names&quot;&gt;Information to consider including in file names:&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;Project or experiment name or acronym&lt;/li&gt;
+  &lt;li&gt;Location/spatial coordinates/identifiers&lt;/li&gt;
+  &lt;li&gt;Staff name/initials&lt;/li&gt;
+  &lt;li&gt;Date or date range of project&lt;/li&gt;
+  &lt;li&gt;Type of data&lt;/li&gt;
+  &lt;li&gt;Conditions&lt;/li&gt;
+  &lt;li&gt;Version number/tag of file&lt;/li&gt;
+  &lt;li&gt;file extension for application specific files&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;These are only suggestions; include whatever infor will allow you to distinguish your files from each other and clearly indicate to you what is in them.&lt;/p&gt;
+
+&lt;h4 id=&quot;other-tips-for-file-naming&quot;&gt;Other tips for file naming:&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;A good format for dates is YYYYMMDD (or YYMMDD); this makes sure all your files stay in chronological order, even over many years.&lt;/li&gt;
+  &lt;li&gt;Don’t make file names too long; longer names do not work well with all types of software.&lt;/li&gt;
+  &lt;li&gt;Special characters should be avoided; e.g. ~!@#$%^&amp;amp;*()`;&amp;lt;&amp;gt;?,[]{}‘“&lt;/li&gt;
+  &lt;li&gt;For sequential numbering, use leading zeros to ensure files sort properly; e.g. use “0001, 0002…1001, etc” instead of “1, 2…1001, etc.”&lt;/li&gt;
+  &lt;li&gt;Do not use spaces, because they are not recognized by some software, instead use:
+    &lt;ul&gt;
+      &lt;li&gt;underscores (file_name.xxx),&lt;/li&gt;
+      &lt;li&gt;dashes (file-name.xxx),&lt;/li&gt;
+      &lt;li&gt;no separation (filename.xxx),&lt;/li&gt;
+      &lt;li&gt;camel case (FileName.xxx)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;renaming-files&quot;&gt;Renaming files&lt;/h3&gt;
+
+&lt;p&gt;You may already have a lot of data collected for your project and wish to organize and rename these files for easier management. There are ways to batch rename with Windows or Mac OSX (select all, right click &amp;gt; Rename is often the simplest way, remember Edit &amp;gt; Undo) but if you have too many files to rename them all by hand, make a copy of source folder/files, then with a copy try one of the following applications for renaming your files:&lt;/p&gt;
+
+&lt;p&gt;Bulk Rename Utility (Windows, free)
+FileRename (Windows, Mac, free/paid)
+Rename4u (Windows, free)
+Renamer 4 (Mac–Single, Family pack)
+PSRenamer (Linux, Mac, or Windows, free)&lt;/p&gt;
+
+&lt;h2 id=&quot;naming-convention--solution-planning&quot;&gt;Naming Convention ‐ Solution Planning&lt;/h2&gt;
+
+&lt;p&gt;Any effort to institute file / folder naming and storage policies may be initiated by anyone in an organization. Following the aforementioned may help, yet to ensure success it is extremely important that such policies be heralded by a lead and/or stakeholder.&lt;/p&gt;
+
+&lt;p&gt;**Stakeholders and leads have the authority to instill and communicate that files:
+**&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;are information assets that are the property of the organization.&lt;/li&gt;
+  &lt;li&gt;are shareable resources although sometimes for restricted users only.&lt;/li&gt;
+  &lt;li&gt;are critical components to operations that affect productivity and profitability.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;execution&quot;&gt;Execution&lt;/h3&gt;
+
+&lt;p&gt;Once the file naming and storage conventions are finalized, they should be documented and made available to all, to reference and follow, within top folders of a directory–e.g. perhaps, part of a “README.txt” file. Edits to these documents should be announced so all are knowledgeable of any changes.&lt;/p&gt;</content><author><name>Philliph Drummond</name><email>phil@movementstrategy.org</email></author><category term="filing" /><summary type="html">File/Folder Naming Problem?</summary></entry><entry><title type="html">Best Practices for Digital Receipts</title><link href="http://localhost:4000/best%20practices/Best-Practices-Digital-Receipts/" rel="alternate" type="text/html" title="Best Practices for Digital Receipts" /><published>2016-06-17T00:00:00+00:00</published><updated>2016-06-17T00:00:00+00:00</updated><id>http://localhost:4000/best%20practices/Best-Practices-Digital-Receipts</id><content type="html" xml:base="http://localhost:4000/best%20practices/Best-Practices-Digital-Receipts/">&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;In general, submission of digital receipts should follow department policy.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Itemized receipt&lt;/li&gt;
+  &lt;li&gt;Shows at least last 4 of cc#&lt;/li&gt;
+  &lt;li&gt;Tickets/vouchers with payment details, not just travel itineraries&lt;/li&gt;
+  &lt;li&gt;Transaction matches statement record…etc&lt;/li&gt;
+  &lt;li&gt;Scanned Receipts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;problems&quot;&gt;Problems:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Image Orientation: card-holders may scans that are crooked, hard to reprint&lt;/li&gt;
+  &lt;li&gt;Image Resolution: card-holders may send scans that are blurry, unreadable; may send “receipt quilts” or collection of receipts that are hard to interpret&lt;/li&gt;
+  &lt;li&gt;File size: card-holders may send scans (files) that are large and hard to download, move, etc.&lt;/li&gt;
+  &lt;li&gt;File type: card-holders may send scans that differ in file-type, making it hard to narrow queries, read, edit, etc.&lt;/li&gt;
+  &lt;li&gt;File Naming: card holders may send scans that follow no naming conventions, making it hard to query, organize, etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;recommendations&quot;&gt;Recommendations:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;REJECT: Camera photos outright – pic looks to be in perspective, tilted, NOT FLAT&lt;/li&gt;
+  &lt;li&gt;Flat-bed scans preferred: card-holders should be directed to using a “flat-bed” scanner to capture their receipts, ensuring clear resolution&lt;/li&gt;
+  &lt;li&gt;Portable Wand Scans - accepted, perhaps suggested for highly mobile staff??&lt;/li&gt;
+  &lt;li&gt;Smart-phone “scans” accepted, not encouraged&lt;/li&gt;
+  &lt;li&gt;Single receipt per image: card-holder sends a scan for each receipt, so identification of expense is clear, easily name file for archiving&lt;/li&gt;
+  &lt;li&gt;Only &amp;gt;25MB scans: file sent below 25MB are easy to work with, transmit over email, migrate to cloud, etc&lt;/li&gt;
+  &lt;li&gt;Preferred B&amp;amp;W scans: files in color are typically larger (see above)&lt;/li&gt;
+  &lt;li&gt;NO GIFs NO TIFs:  prefer small PNGs, .JPGs, and/or small PDFs, ensures good resolution, no artifacts&lt;/li&gt;
+  &lt;li&gt;Watch out for fax/zerox conversions - may create artifacts, poor resolution&lt;/li&gt;
+  &lt;li&gt;Watch out for small unclear .JPGs - artifacts, poor resolution, easy to “manufacture”&lt;/li&gt;
+  &lt;li&gt;Create Naming Conventions: recommend statement period and vendor name and # only
+    &lt;ul&gt;
+      &lt;li&gt;Eg: 0915Starbucks1&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;e-receipts&quot;&gt;E-Receipts&lt;/h2&gt;
+
+&lt;h3 id=&quot;problems-1&quot;&gt;Problems:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Proliferation of services: each card-holder may choose a different service, w/ own style of production and retrieval, meaning:&lt;/li&gt;
+  &lt;li&gt;Managing and communicating an assortment of credentials&lt;/li&gt;
+  &lt;li&gt;Unknown repositories, little uniform collection&lt;/li&gt;
+  &lt;li&gt;Threshold on production: typically e-receipts are only produced on transactions below $75, meaning:&lt;/li&gt;
+  &lt;li&gt;Directions to card-holder on splitting the purchase into increments&lt;/li&gt;
+  &lt;li&gt;Consistent followup on outliers, failures, etc.&lt;/li&gt;
+  &lt;li&gt;Credit Card Type:&lt;/li&gt;
+  &lt;li&gt;Commercial Credit Cards - (FirstBank Card) difficult to configure/setup in many expense management applications&lt;/li&gt;
+  &lt;li&gt;Corporate Credit Cards - (Capitol One Card) at MSC this is setup under Taj as umbrella account, making integration (breaking out) in expense management applications a bit clunky&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;recommendation&quot;&gt;Recommendation:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;One Type: consider using one “type” of Credit Card as a department to capture in expense management app&lt;/li&gt;
+  &lt;li&gt;Survey: ask Card-holders for preferred expense management app IF rolling in retrieval as part of task/service of department&lt;/li&gt;
+  &lt;li&gt;Encourage email filters: Mail filters to auto-fwd expense 75$&amp;gt;&lt;/li&gt;
+  &lt;li&gt;Create filters in card-holder accounts against “no-reply” addresses for square, google play, apple pay, and various travel vendors&lt;/li&gt;
+  &lt;li&gt;Recommend regardless of amount&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Philliph Drummond</name><email>phil@movementstrategy.org</email></author><category term="creditcard" /><category term="media" /><category term="finance" /><summary type="html">Overview In general, submission of digital receipts should follow department policy.</summary></entry><entry><title type="html">Supply Order Policy</title><link href="http://localhost:4000/policy/Supply-Order-Policy/" rel="alternate" type="text/html" title="Supply Order Policy" /><published>2015-08-04T00:00:00+00:00</published><updated>2015-08-04T00:00:00+00:00</updated><id>http://localhost:4000/policy/Supply-Order-Policy</id><content type="html" xml:base="http://localhost:4000/policy/Supply-Order-Policy/">&lt;p&gt;Operations’ goal with supply ordering is to sustain and monitor a supply of regular office items for use by MSC
+staff and community. Some guidelines need to be followed to achieve this.&lt;/p&gt;
+
+&lt;h3 id=&quot;guidelines&quot;&gt;Guidelines:&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;All purchases over $500 should be approved by the Finance Director or the Managing Director&lt;/li&gt;
@@ -44,13 +166,14 @@ staff and community&lt;/p&gt;
   &lt;li&gt;
     &lt;p&gt;White board erasers&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;White board markers&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;MSC purchases supplies with the following vendors (credentials can be found in the “usernames” document:&lt;/li&gt;
+  &lt;li&gt;White board markers&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;Vendor&lt;/strong&gt;                                                                                                                                  &lt;strong&gt;Item(s) type&lt;/strong&gt;                                                                                  &lt;strong&gt;Purchaser(s)&lt;/strong&gt;       &lt;strong&gt;Fr&lt;/strong&gt;equency
+&lt;h3 id=&quot;vendors&quot;&gt;Vendors&lt;/h3&gt;
+
+&lt;p&gt;MSC purchases supplies with the following vendors (credentials can be found in the “usernames” document:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vendor&lt;/strong&gt;                                                                                                                                  &lt;strong&gt;Item(s) type&lt;/strong&gt;                                                                                  Purchaser(s)       Frequency
   ——————————————————————————————————————————————- ————————————————————————————————- ———————- ———————-&lt;/p&gt;
 
 &lt;table&gt;
@@ -116,7 +239,7 @@ staff and community&lt;/p&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h3 id=&quot;guidelines-&quot;&gt;**Guidelines: **&lt;/h3&gt;
+&lt;h3 id=&quot;guidelines-1&quot;&gt;Guidelines:&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -155,4 +278,4 @@ staff and community&lt;/p&gt;
   &lt;li&gt;
     &lt;p&gt;Shared Supplies&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Movement Strategy Center</name><email>info@movementstrategy.org</email><uri>movementstrategy.org</uri></author><summary type="html">Goal:</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>Philliph Drummond</name><email>phil@movementstrategy.org</email></author><category term="supplies" /><summary type="html">Operations’ goal with supply ordering is to sustain and monitor a supply of regular office items for use by MSC staff and community. Some guidelines need to be followed to achieve this.</summary></entry></feed>
