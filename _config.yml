@@ -261,12 +261,16 @@ defaults:
       author_profile: true
 
 collections:
-  portfolio:
+  Directories:
+    output: true
+    permalink: /:collection/:path/
+  Guides:
     output: true
     permalink: /:collection/:path/
 
+
 defaults:
-  # _portfolio
+  # _how_to
   - scope:
       path: ""
       type: portfolio
