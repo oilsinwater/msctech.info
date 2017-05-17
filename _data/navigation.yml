@@ -2,17 +2,15 @@
 main:
   - title: "Home"
     url: /home/
-  - title: "MSC Slack Team"
-    url: https://mschub.slack.com
   - title: "Posts"
     url: /year-archive/
-  - title: "Search"
-    url: /search/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
   - title: "Collections"
     url: /collection-archive/
+  - title: "Search"
+    url: /search/
   - title: "Site-map"
     url: /sitemap/

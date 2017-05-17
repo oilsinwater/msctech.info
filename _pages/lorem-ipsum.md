@@ -1,5 +1,6 @@
 ---
 title: "Lorem Ipsum"
+sitemap: false
 permalink: /lorem-ipsum/
 published: false
 ---

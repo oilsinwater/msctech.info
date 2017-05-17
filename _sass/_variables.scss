@@ -47,7 +47,7 @@ $type-size-8                : 0.625em !default;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #0072AA !default;
+$gray                       : #0072AA !default;  // For msctech.info this is actually a blue, too lazy to switch...
 $dark-gray                  : mix(#000, $gray, 40%) !default;
 $darker-gray                : mix(#000, $gray, 60%) !default;
 $light-gray                 : mix(#fff, $gray, 50%) !default;
