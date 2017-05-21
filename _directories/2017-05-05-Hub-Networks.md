@@ -17,7 +17,7 @@ published: true
 
 
 You can travel through the common areas using MuRibosome, but within Playroom, Conference Room, and Taj & Mimi's Office, its better to utilize the room's AP not the WAN(*MuRibosome*).
-
+{: .notice--info}
 
 | Name | Password |  Area | 5gh | VLAN |
 |--------|--------|--------|--------|--------|
@@ -26,6 +26,3 @@ You can travel through the common areas using MuRibosome, but within Playroom, C
 | hub_Play | ichubnet | Playroom | yes | 5 |
 | hub_Conf | ichubnet | Conference Room | yes | 5 |
 | hub_East | ichubnet | East Wing | no | 3 |
-
-
-
