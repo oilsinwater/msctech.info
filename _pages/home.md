@@ -11,6 +11,6 @@ header:
   cta_label: "<i class='fa fa-slack'></i>Join the Movement Strategy Center Slack Team"
   cta_url: "https://mschub.slack.com"
   caption:
-excerpt: 'A blog of updates, documentation, and information for technology of the Movement Strategy Center.<br/>'
+excerpt: 'A site for updates, documentation, and information for technology of the Movement Strategy Center.<br/>'
 
 ---

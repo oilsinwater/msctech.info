@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-05-21T09:55:41+00:00</updated><id>/</id><title type="html">MSC Technical Information</title><subtitle>A blog of updates, documentation, and information for tehcnology and operations for the Movement Strategy Center.</subtitle><author><name>Movement Strategy Center</name><email>info@movementstrategy.org</email><uri>http://movementstrategy.org</uri></author><entry><title type="html">Known Issues with Hub Network</title><link href="/network/Network-Issues/" rel="alternate" type="text/html" title="Known Issues with Hub Network" /><published>2017-05-05T00:00:00+00:00</published><updated>2017-05-05T00:00:00+00:00</updated><id>/network/Network-Issues</id><content type="html" xml:base="/network/Network-Issues/">&lt;p&gt;At this time, UDP traffic and dcsp marking for Zoom has been implemented. And for the unified wireless network, the AP throughout the hub are kept rolling on updates and auto channels within different subnets in an attempt to provide benefits of a unified wide area network, well controlling cross talk and congestion.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-05-21T10:01:48+00:00</updated><id>/</id><title type="html">MSC Technical Information</title><subtitle>A blog of updates, documentation, and information for tehcnology and operations for the Movement Strategy Center.</subtitle><author><name>Movement Strategy Center</name><email>info@movementstrategy.org</email><uri>http://movementstrategy.org</uri></author><entry><title type="html">Known Issues with Hub Network</title><link href="/network/Network-Issues/" rel="alternate" type="text/html" title="Known Issues with Hub Network" /><published>2017-05-05T00:00:00+00:00</published><updated>2017-05-05T00:00:00+00:00</updated><id>/network/Network-Issues</id><content type="html" xml:base="/network/Network-Issues/">&lt;p&gt;At this time, UDP traffic and dcsp marking for Zoom has been implemented. And for the unified wireless network, the AP throughout the hub are kept rolling on updates and auto channels within different subnets in an attempt to provide benefits of a unified wide area network, well controlling cross talk and congestion.&lt;/p&gt;
 
 &lt;p&gt;Still, there are some known problems that persist with the network despite steps taken to fix.&lt;/p&gt;
 
@@ -19,7 +19,7 @@
       &lt;li&gt;possible fix:
         &lt;ul&gt;
           &lt;li&gt;using thunderbolt (MAC), or USB adapter for ethernet&lt;/li&gt;
-          &lt;li&gt;quiting all active and background applications before session&lt;/li&gt;
+          &lt;li&gt;quitting all active and background applications before session&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
@@ -35,12 +35,12 @@
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;some broadcast traffic (systems, sharepoints, smartwatches, phones, tablets…)
+  &lt;li&gt;some broadcast traffic (systems, share-points, smartwatches, phones, tablets…)
     &lt;ul&gt;
       &lt;li&gt;possible fix:
         &lt;ul&gt;
           &lt;li&gt;turning off sharing services for systems and devices that are property of MSC&lt;/li&gt;
-          &lt;li&gt;subnetting&lt;/li&gt;
+          &lt;li&gt;sub-netting&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
@@ -49,7 +49,7 @@
     &lt;ul&gt;
       &lt;li&gt;possible fix:
         &lt;ul&gt;
-          &lt;li&gt;subnetting&lt;/li&gt;
+          &lt;li&gt;sub-netting&lt;/li&gt;
           &lt;li&gt;install 5ghz AP&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
