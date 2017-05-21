@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>/Directories/2017-05-05-Hub-Networks/</loc>
+<lastmod>2017-05-05T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>/Directories/2017-05-17-MSC-Staff-Directory/</loc>
 <lastmod>2017-05-17T00:00:00+00:00</lastmod>
 </url>
@@ -29,6 +33,10 @@
 <lastmod>2017-05-04T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>/network/Network-Issues/</loc>
+<lastmod>2017-05-05T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>/_posts/2015-05-03-Using-Team-Drive/</loc>
 </url>
 <url>
@@ -39,6 +47,9 @@
 </url>
 <url>
 <loc>/_posts/2017-01-25-Best-Practices-File-Sharing%20copy/</loc>
+</url>
+<url>
+<loc>/_posts/2017-05-05-Network-Issues/</loc>
 </url>
 <url>
 <loc>/_posts/2017-11-13-Accessing-Organizational-Accounts/</loc>
@@ -75,5 +86,8 @@
 </url>
 <url>
 <loc>/year-archive/</loc>
+</url>
+<url>
+<loc>/page2/</loc>
 </url>
 </urlset>

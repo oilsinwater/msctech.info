@@ -1,4 +1,111 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-05-21T08:48:09+00:00</updated><id>/</id><title type="html">MSC Technical Information</title><subtitle>A blog of updates, documentation, and information for tehcnology and operations for the Movement Strategy Center.</subtitle><author><name>Movement Strategy Center</name><email>info@movementstrategy.org</email><uri>http://movementstrategy.org</uri></author><entry><title type="html">Using Team Drive</title><link href="/updates/Using-Team-Drive/" rel="alternate" type="text/html" title="Using Team Drive" /><published>2017-05-04T00:00:00+00:00</published><updated>2017-05-04T00:00:00+00:00</updated><id>/updates/Using-Team-Drive</id><content type="html" xml:base="/updates/Using-Team-Drive/">&lt;p&gt;Team Drive has been enabled and I see a handful of you already using it. I needed to enable the whole domain in order to test functionality with some other services… Its a fairly new feature that may be informed by some best practices for Google Drive usage in this draft here.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-05-21T09:55:41+00:00</updated><id>/</id><title type="html">MSC Technical Information</title><subtitle>A blog of updates, documentation, and information for tehcnology and operations for the Movement Strategy Center.</subtitle><author><name>Movement Strategy Center</name><email>info@movementstrategy.org</email><uri>http://movementstrategy.org</uri></author><entry><title type="html">Known Issues with Hub Network</title><link href="/network/Network-Issues/" rel="alternate" type="text/html" title="Known Issues with Hub Network" /><published>2017-05-05T00:00:00+00:00</published><updated>2017-05-05T00:00:00+00:00</updated><id>/network/Network-Issues</id><content type="html" xml:base="/network/Network-Issues/">&lt;p&gt;At this time, UDP traffic and dcsp marking for Zoom has been implemented. And for the unified wireless network, the AP throughout the hub are kept rolling on updates and auto channels within different subnets in an attempt to provide benefits of a unified wide area network, well controlling cross talk and congestion.&lt;/p&gt;
+
+&lt;p&gt;Still, there are some known problems that persist with the network despite steps taken to fix.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;printing a Google Drive document from Chrome, resulting in ERROR 600
+    &lt;ul&gt;
+      &lt;li&gt;possible fix:
+        &lt;ul&gt;
+          &lt;li&gt;update printer driver&lt;/li&gt;
+          &lt;li&gt;print to different printer&lt;/li&gt;
+          &lt;li&gt;possibly document contains fonts not recognized by Google&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;video conferencing on wireless network–connection dropped
+    &lt;ul&gt;
+      &lt;li&gt;possible fix:
+        &lt;ul&gt;
+          &lt;li&gt;using thunderbolt (MAC), or USB adapter for ethernet&lt;/li&gt;
+          &lt;li&gt;quiting all active and background applications before session&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;channel congestion from other AP within building typically on ch. 1, 6-7, &amp;amp; 11
+    &lt;ul&gt;
+      &lt;li&gt;possible fix:
+        &lt;ul&gt;
+          &lt;li&gt;set AP to auto, during high congestion&lt;/li&gt;
+          &lt;li&gt;monitor other known AP common channels and avoid if possible&lt;/li&gt;
+          &lt;li&gt;install/convert APs to 2-5ghz (higher frequency less congestion)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;some broadcast traffic (systems, sharepoints, smartwatches, phones, tablets…)
+    &lt;ul&gt;
+      &lt;li&gt;possible fix:
+        &lt;ul&gt;
+          &lt;li&gt;turning off sharing services for systems and devices that are property of MSC&lt;/li&gt;
+          &lt;li&gt;subnetting&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;increased congestion with meetings and gatherings, resulting in poor connectivity
+    &lt;ul&gt;
+      &lt;li&gt;possible fix:
+        &lt;ul&gt;
+          &lt;li&gt;subnetting&lt;/li&gt;
+          &lt;li&gt;install 5ghz AP&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;poor connectivity behind closed door offices
+    &lt;ul&gt;
+      &lt;li&gt;possible fix:
+        &lt;ul&gt;
+          &lt;li&gt;install AP in office&lt;/li&gt;
+          &lt;li&gt;install switch in office for ethernet&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;VLAN 2 (public network) accessed by clients w/ limited bandwidth
+    &lt;ul&gt;
+      &lt;li&gt;possible fix:
+        &lt;ul&gt;
+          &lt;li&gt;switch VLAN 2 ports to VLAN 3&lt;/li&gt;
+          &lt;li&gt;take VLAN 2 ports down&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;use of CAT 5 cables and cable fraying, degradation
+    &lt;ul&gt;
+      &lt;li&gt;possible fix:
+        &lt;ul&gt;
+          &lt;li&gt;cleanup network rack, switch to CAT 6&lt;/li&gt;
+          &lt;li&gt;extend CAT cable AP, no longer use cables with punched keystones&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;microwave operating in proximity of the AP
+    &lt;ul&gt;
+      &lt;li&gt;possible fix:
+        &lt;ul&gt;
+          &lt;li&gt;move AP farther away&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;MB Air poor connectivity when memory pressure is high
+    &lt;ul&gt;
+      &lt;li&gt;possible fix:
+        &lt;ul&gt;
+          &lt;li&gt;limit use of services/applications with large memory footprint&lt;/li&gt;
+          &lt;li&gt;insist usage of ethernet adapter&lt;/li&gt;
+          &lt;li&gt;keep system os updated&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Philliph Drummond</name><email>phil@movementstrategy.org</email></author><category term="wifi" /><category term="known issues" /><summary type="html">At this time, UDP traffic and dcsp marking for Zoom has been implemented. And for the unified wireless network, the AP throughout the hub are kept rolling on updates and auto channels within different subnets in an attempt to provide benefits of a unified wide area network, well controlling cross talk and congestion.</summary></entry><entry><title type="html">Using Team Drive</title><link href="/updates/Using-Team-Drive/" rel="alternate" type="text/html" title="Using Team Drive" /><published>2017-05-04T00:00:00+00:00</published><updated>2017-05-04T00:00:00+00:00</updated><id>/updates/Using-Team-Drive</id><content type="html" xml:base="/updates/Using-Team-Drive/">&lt;p&gt;Team Drive has been enabled and I see a handful of you already using it. I needed to enable the whole domain in order to test functionality with some other services… Its a fairly new feature that may be informed by some best practices for Google Drive usage in this draft here.&lt;/p&gt;
 
 &lt;p&gt;Somethings to note with Team Drive for those whom have interest and/or already using:
 Team Drives do not synch/appear in Google Desktop client; i.e. no path appears in Finder/File Explorer
