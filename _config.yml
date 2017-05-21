@@ -79,10 +79,10 @@ analytics:
 author:
   name             : "Movement Strategy Center"
   avatar           : "assets/images/2msc.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Begining Our Next Economy Today"
+  bio              : "The Movement Strategy Center works to build a progressive movement, by increasing the capacity of individuals, organizations, alliances and sectors to be more strategic, collaborative and sustainable."
   location         : "Oakland, California"
   email            : "info@movementstrategy.org"
-  uri              : "movementstrategy.org"
+  uri              : "http://movementstrategy.org"
   bitbucket        :
   codepen          :
   dribbble         :
