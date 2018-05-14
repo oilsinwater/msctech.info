@@ -22,7 +22,7 @@ You can travel through the common areas using MuRibosome, but within Playroom, C
 | Name | Password |  Area | 5gh | VLAN |
 |--------|--------|--------|--------|--------|
 |MuRibosome|uag!mem$gau|Entire Floor|no|3|
-|mlead|4transition8|Taj & Mimi Office, Playroom|no|5|
-| hub_Play | ichubnet | Playroom | yes | 5 |
-| hub_Conf | ichubnet | Conference Room | yes | 5 |
-| hub_East | ichubnet | East Wing | no | 3 |
+|mlead|4----8|Taj & Mimi Office, Playroom|no|5|
+| hub_Play | ---- | Playroom | yes | 5 |
+| hub_Conf | ---- | Conference Room | yes | 5 |
+| hub_East | ---- | East Wing | no | 3 |
